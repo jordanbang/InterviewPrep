@@ -2,6 +2,8 @@ package prep;
 
 import java.util.Enumeration;
 import java.util.Hashtable;
+import java.util.PriorityQueue;
+import java.util.Queue;
 
 public class CrackingCodingStrings {
 	static boolean perm(String a, String b) {
